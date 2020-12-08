@@ -65,5 +65,25 @@ code text can be denoted by the character ` that surrounds the text.
 
 ## Code Blocks
 
-code blocks require a tab or 4 spaces at the start of the line.
-`<html> <head> <h1>heading</h1> </head>`
+code blocks require a tab or 4 spaces at the start of the line. else the code can be surrounded by three \`\`\` or ~~~ to create a block code. the language and syntax can be indicated after the initial \`\`\`.
+
+```html
+<html>
+  <head>
+    <h1>heading</h1>
+  </head>
+</html>
+```
+
+```json
+{
+  "info 1": "var1",
+  "info 2": "var2"
+}
+```
+
+# Links
+
+To include links the text needs to be enclosed in a square bracket \[\] followed by the URL in parentheses.
+
+for more information [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
