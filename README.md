@@ -21,6 +21,7 @@ Headers use the charcter # at the start of the line.
 adding double asterisks (\*\*) or double underscores (\_\_) around words/text allows the text to be bold.
 
 **This is bold text**
+
 **This is also bold text**
 
 ## Italic
@@ -28,13 +29,15 @@ adding double asterisks (\*\*) or double underscores (\_\_) around words/text al
 adding single asterisks (\*) or underscores (\_) around words/text allows the text to be bold.
 
 _this is italic text_
+
 _this is also italic text_
 
 ### bold and italic
 
 adding triple asterisks (\*\*\*) or triple underscores (\_\_\_) around words/text allows the text to be bold.
 
-**_This is bold text_**
+**_This is bold and italic text_**
+
 **_This is also bold text_**
 
 # Blockquotes
