@@ -57,10 +57,13 @@ bulletpoints use the charcter \* or - at the start of the line. numbered lists i
 1. number 2
 1. number 3
 
-# Code Blocks
+# Code
+
+code text can be denoted by the character ` that surrounds the text.
+
+`this is code`
+
+## Code Blocks
 
 code blocks require a tab or 4 spaces at the start of the line.
-<html>
-<head>
-<h1>heading</h1>
-</head>
+`<html> <head> <h1>heading</h1> </head>`
