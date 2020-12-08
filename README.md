@@ -1,6 +1,6 @@
 # Markdown Demo 2
 
-# Plantext
+# Plaintext
 
 plaintext does not require a character at the start of the line.
 
